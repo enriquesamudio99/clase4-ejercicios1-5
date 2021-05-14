@@ -1,0 +1,16 @@
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\bin\Debug\net5.0\ejerciciosParteUno.exe
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\bin\Debug\net5.0\ejerciciosParteUno.deps.json
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\bin\Debug\net5.0\ejerciciosParteUno.runtimeconfig.json
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\bin\Debug\net5.0\ejerciciosParteUno.runtimeconfig.dev.json
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\bin\Debug\net5.0\ejerciciosParteUno.dll
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\bin\Debug\net5.0\ref\ejerciciosParteUno.dll
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\bin\Debug\net5.0\ejerciciosParteUno.pdb
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\obj\Debug\net5.0\ejerciciosParteUno.csprojAssemblyReference.cache
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\obj\Debug\net5.0\ejerciciosParteUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\obj\Debug\net5.0\ejerciciosParteUno.AssemblyInfoInputs.cache
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\obj\Debug\net5.0\ejerciciosParteUno.AssemblyInfo.cs
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\obj\Debug\net5.0\ejerciciosParteUno.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\obj\Debug\net5.0\ejerciciosParteUno.dll
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\obj\Debug\net5.0\ref\ejerciciosParteUno.dll
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\obj\Debug\net5.0\ejerciciosParteUno.pdb
+C:\Users\Enrique\Desktop\C# Docs\claseCuatro\ejerciciosParteUno\ejerciciosParteUno\obj\Debug\net5.0\ejerciciosParteUno.genruntimeconfig.cache
