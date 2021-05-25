@@ -207,6 +207,14 @@ namespace ejerciciosParteUno
             Console.WriteLine("Esta frase contiene {0} consonantes", cincoContadorConsonantes);
             Console.WriteLine("Esta frase contiene {0} caracteres", cincoCaracteres);
             // Fin Ejercicio 5
+            Console.WriteLine("Siguiente ejercicio");
+            Console.ReadLine();
+
+            // Ejercicio 6
+            string texto = System.IO.File.ReadAllText(@"..\..\..\texto.txt");
+
+            Console.WriteLine("Contenido del archivo = {0}", texto);
+            // Fin Ejercicio 6
             Console.ReadLine();
         }
     }
